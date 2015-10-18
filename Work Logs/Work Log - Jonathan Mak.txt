@@ -6,3 +6,4 @@ Week 1:
 Week 2:
   October 14th: Research on making a web forum. Posted links on private group slack channel
   October 16th: Worked on project proposal, and proof read the document.
+  October 18th: Created initial webpage index.html file. Uploaded to my uvic web hosting space. Started to prep my laptop for web dev stuff (downloaded php, phpmyadmin, mySQL setup files)
