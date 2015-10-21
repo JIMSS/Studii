@@ -1,9 +1,12 @@
 Jonathan Mak
 
 Week 1:
-  October 10th: 1 hour meeting/collaborative work session with group, created rough outline for project
+  October 10th: meeting/collaborative work session with group, created rough outline for project (1 hour)
   
 Week 2:
-  October 14th: Research on making a web forum. Posted links on private group slack channel
-  October 16th: Worked on project proposal, and proof read the document.
-  October 18th: Created initial webpage index.html file. Uploaded to my uvic web hosting space. Started to prep my laptop for web dev stuff (downloaded php, phpmyadmin, mySQL setup files)
+  October 14th: Research on making a web forum. Posted links on private group slack channel (2 hours)
+  October 16th: Worked on project proposal, and proof read the document. (2 hours)
+  October 18th: Created initial webpage index.html file. Uploaded to my uvic web hosting space. Started to prep my laptop for web dev stuff (downloaded php, phpmyadmin, mySQL setup files) (3 hours)
+
+Week 3:
+  October 20th: Looked for php tutorials, installed php/apache/mySQL package, added link to private slack channel (1 hour)
