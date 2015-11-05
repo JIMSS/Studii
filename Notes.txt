@@ -1,0 +1,30 @@
+Facebook is by far the most popular tool, followed by Google Docs and Yahoo Answers (among non-Uvic services)
+
+lots of people use coursespaces
+
+Forums and Chatrooms are unpopular, private messaging is relatively popular
+
+General QA tools are more popular than academically focused ones
+
+people like real time collaborative tools and not file sharing tools or image based ones
+
+Toxicity of the community isn't particularly important to adoption and anonymity is a bonus at best
+
+The registration process and interface are important
+
+I suspect that if we had included the universality of the tools in our options it would have been high as well
+
+
+
+Ideas:
+
+	- Make the forums public or private based on the preference of the creator
+	- focus on the QA design over the forum design, people hate forums
+	- make it really easy for people to access it to avoid problems with getting people to create accounts and shit, the community sorts itself out and the anonmyity isn't a huge issue
+	- have a private message feature?
+	- expiry/archiving dates on courses/topics at creation
+		- increment archive dates by months, give option to get more specific (days)
+	- general discussion topic on new boards by default
+	- don't need account to look at course page, just to participate, save courses
+	- When creating a board you must provide the name of the board/class and an organization (company, school, expo...)
+	- 
